@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "_id": "6efd3c20-5e43-4a61-b64e-5f328a6300cd",
+      "title": "Le Bon, la brute et le truand",
+      "img": "/assets/images/bbt.jpg",
+      "details": "8 mars 1968 | 9/10 (41210)",
+      "desc": "Pendant la Guerre de Sécession, trois hommes, préférant s'intéresser à leur profit personnel, se lancent à la recherche d'un coffre contenant 200 000 dollars en pièces d'or volés à l'armée sudiste. Tuco sait que le trésor se trouve dans un cimetière, tandis que Joe connaît le nom inscrit sur la pierre tombale qui sert de cache. Chacun a besoin de l'autre. Mais un troisième homme entre dans la course : Setenza, une brute qui n'hésite pas à massacrer femmes et enfants pour parvenir à ses fins."
+    },
+    {
+      "_id": "ead538d8-6314-44ef-afdb-d63a3d79f321",
+      "title": "Gran Torino",
+      "img": "/assets/images/gran-torino.jpg",
+      "details": "25 février 2009 | 9/10 (76346)",
+      "desc": "Walt Kowalski est un ancien de la guerre de Corée, un homme inflexible, amer et pétri de préjugés surannés. Après des années de travail à la chaîne, il vit replié sur lui-même, occupant ses journées à bricoler, traînasser et siroter des bières. Avant de mourir, sa femme exprima le voeu qu'il aille à confesse, mais Walt n'a rien à avouer, ni personne à qui parler. Hormis sa chienne Daisy, il ne fait confiance qu'à son M-1, toujours propre, toujours prêt à l'usage..."
+    },
+    {
+      "_id": "004fb08f-5171-4748-beb0-e6345ba963d0",
+      "title": "Seul au monde",
+      "img": "/assets/images/seul.jpg",
+      "details": "17 janvier 2001 | 8.2/10 (40701)",
+      "desc": "Chuck Noland, un cadre de Fedex, sillonne le monde pour améliorer les performances de son entreprise et la productivité de ses équipes. Il ne trouve la tranquillité qu'auprès de sa compagne Kelly. Mais à la veille de Noël, il reçoit un appel lui annonçant qu'il doit contrôler la livraison d'un colis urgent pour la Malaisie. Il n'en a que pour quatre jours et reviendra pour fêter le Nouvel An avec sa dulcinée."
+    },
+    {
+      "_id": "4abbdac1-2646-4f40-8ed9-de544bae675a",
+      "title": "Le Bon, la brute et le truand",
+      "img": "/assets/images/bbt.jpg",
+      "details": "8 mars 1968 | 9/10 (41210)",
+      "desc": "Pendant la Guerre de Sécession, trois hommes, préférant s'intéresser à leur profit personnel, se lancent à la recherche d'un coffre contenant 200 000 dollars en pièces d'or volés à l'armée sudiste. Tuco sait que le trésor se trouve dans un cimetière, tandis que Joe connaît le nom inscrit sur la pierre tombale qui sert de cache. Chacun a besoin de l'autre. Mais un troisième homme entre dans la course : Setenza, une brute qui n'hésite pas à massacrer femmes et enfants pour parvenir à ses fins."
+    },
+    {
+      "_id": "59553229-fcdf-4cf2-8814-ef4644dcc165",
+      "title": "Gran Torino",
+      "img": "/assets/images/gran-torino.jpg",
+      "details": "25 février 2009 | 9/10 (76346)",
+      "desc": "Walt Kowalski est un ancien de la guerre de Corée, un homme inflexible, amer et pétri de préjugés surannés. Après des années de travail à la chaîne, il vit replié sur lui-même, occupant ses journées à bricoler, traînasser et siroter des bières. Avant de mourir, sa femme exprima le voeu qu'il aille à confesse, mais Walt n'a rien à avouer, ni personne à qui parler. Hormis sa chienne Daisy, il ne fait confiance qu'à son M-1, toujours propre, toujours prêt à l'usage..."
+    },
+    {
+      "_id": "189e9164-12ec-40d3-b32c-c0bb7574c265",
+      "title": "Seul au monde",
+      "img": "/assets/images/seul.jpg",
+      "details": "17 janvier 2001 | 8.2/10 (40701)",
+      "desc": "Chuck Noland, un cadre de Fedex, sillonne le monde pour améliorer les performances de son entreprise et la productivité de ses équipes. Il ne trouve la tranquillité qu'auprès de sa compagne Kelly. Mais à la veille de Noël, il reçoit un appel lui annonçant qu'il doit contrôler la livraison d'un colis urgent pour la Malaisie. Il n'en a que pour quatre jours et reviendra pour fêter le Nouvel An avec sa dulcinée."
+    }
+  ]
+}
